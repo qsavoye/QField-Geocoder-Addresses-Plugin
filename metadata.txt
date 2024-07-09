@@ -1,0 +1,7 @@
+[general]
+name=Address Geocoder using nominatim
+description=Search addresses in search bar.
+author=Quentin Savoye
+icon=icon.svg
+version=1.0
+homepage=https://github.com/qsavoye
